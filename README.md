@@ -1,5 +1,4 @@
 # everything
 
-
 - [x] static HTML page
-- [ ] dockerize and deploy with nginx
+- [x] dockerize and deploy with nginx
